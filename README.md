@@ -1,4 +1,4 @@
-# ShopSense AI
+# ShopChat AI
 
 An AI customer support agent for an online store. It understands natural
 language questions, decides which tool(s) to call, chains tool calls when
@@ -94,7 +94,6 @@ shopsense-ai/
    GOOGLE_API_KEY=your_key_here
    ```
 
-   Get a key from [Google AI Studio](https://aistudio.google.com/).
 
 ---
 
